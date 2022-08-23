@@ -68,6 +68,7 @@ class Animal:
 
     # duenio=property(__getDuenio,__setDuenio)
 
+    # segunda forma
     # Getter
     @property #decorador
     def duenio(self):
